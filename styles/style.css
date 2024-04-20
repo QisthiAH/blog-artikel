@@ -1,0 +1,70 @@
+nav {
+  background-color: #A79277;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Dancing Script";
+  margin-left: 50px;
+  font-size: 25px;
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+.dropdown-menu {
+  background-color: #EAD8C0;
+}
+
+.custom-heading {
+  font-family: 'Caveat';
+  font-size: 50px;
+  color: #A79277;
+}
+
+.custom-heading-2 {
+  font-family: 'Dancing Script';
+  font-size: 80px;
+  color: #000;
+}
+
+.custom-paragraph {
+  font-family: "Poppins";
+}
+
+.custom-paragraph-2 {
+  color: #B99470;
+}
+
+.mt-4 {
+  font-family: "Caveat";
+  font-size: 40px;
+  color: #A79277;
+}
+
+.bg-color {
+  font-family: "Poppins";
+  background-color: #A79277;
+}
+
+.fas {
+  margin-left: 10px;
+}
+
+/* style artikel */
+.btn,
+.pr {
+  font-family: "Poppins";
+}
+
+.content {
+  font-family: "Poppins";
+  text-align: justify;
+}
+
+.np {
+  color: #A79277;
+  font-family: "Poppins";
+}
